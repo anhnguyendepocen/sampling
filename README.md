@@ -1,7 +1,6 @@
-# samplingapp
-Sampling Distribution Application in Shiny
+# Sampling Distribution Application in Shiny
 
-The application can be run in using the following code:
+The application can be run in **R** using the following code:
 
 ```r
 library("shiny")
