@@ -1,5 +1,6 @@
 
 # Load packages ----
+install.packages(c("openintro","gridExtra","BHH2"))
 library("shiny")
 library("openintro")
 library("gridExtra")
